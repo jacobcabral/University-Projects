@@ -1,0 +1,76 @@
+Author:  Jacob Cabral
+ID:      190689750
+Email:   cabr9750@mylaurier.ca
+Version: 2019-10-24
+------------------------------------------------------------------------------------------------------------
+q1.py
+------------------------------------------------------------------------------------------------------------
+Please enter your investment amount: 1000000 
+Please enter number of years: 5 
+
+Year Value (Million Dollars) 
+---- -----------------------
+   1                1.050000
+   2                1.102500
+   3                1.157625
+   4                1.215506
+   5                1.276282
+   
+Please enter your investment amount: 750000
+Please enter number of years: 3
+
+Year Value (Million Dollars) 
+---- -----------------------
+   1                0.787500
+   2                0.826875
+   3                0.868219
+------------------------------------------------------------------------------------------------------------
+q2.py
+------------------------------------------------------------------------------------------------------------
+Enter a positive integer: 20
+
+Perfect Squares below 20 are: 1, 4, 9, 16
+
+Enter a positive integer: -5
+
+You did not enter a positive integer
+------------------------------------------------------------------------------------------------------------
+q3.py
+------------------------------------------------------------------------------------------------------------
+Enter a positive integer: 65
+65! =  8247650592082470666723170306785496252186258551345437492922123134388955774976000000000000000
+
+Enter a positive integer: -9
+You did not enter a positive integer
+------------------------------------------------------------------------------------------------------------
+q4.py
+------------------------------------------------------------------------------------------------------------
+Please enter a positive integer: 9
+
+9 is not a prime number
+
+Please enter a positive integer: 1
+
+1 is a prime number
+
+Please enter a positive integer: -2
+
+Please enter a positive integer: -3
+
+Please enter a positive integer: -4
+
+Please enter a positive integer: -5
+
+Please enter a positive integer: -6
+
+Please enter a positive integer: -7
+
+Please enter a positive integer: -8
+
+Please enter a positive integer: -9
+
+Please enter a positive integer: 0
+------------------------------------------------------------------------------------------------------------
+
+
+

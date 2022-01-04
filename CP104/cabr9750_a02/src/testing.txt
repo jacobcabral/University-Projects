@@ -1,0 +1,40 @@
+Author:  Jacob Cabral
+ID:      190689750
+Email:   cabr9750@mylaurier.ca
+Version: 2019-09-17
+--------------------------------------------------------------------
+q1.py
+--------------------------------------------------------------------
+Enter your first name: Jacob
+Enter your last name: Cabral
+Welcome  Jacob Cabral
+--------------------------------------------------------------------
+q2.py
+--------------------------------------------------------------------
+PLease enter the principal amount: 5000
+Please enter the intrest rate as a decimal: 0.05
+Enter the amount of time in years: 10
+Enter the number of times the intrest is compounded per year: 12
+$8235.05
+
+PLease enter the principal amount: 1350
+Please enter the intrest rate as a decimal: 0.07
+Enter the amount of time in years: 5
+Enter the number of times the intrest is compounded per year: 10
+$1913.41
+
+--------------------------------------------------------------------
+q3.py
+--------------------------------------------------------------------
+Projected Profits
+--------------------
+Total Sales :$ 100000.0
+Annual profit: % 23.0
+--------------------
+Profit: $ 23000.0
+--------------------------------------------------------------------
+p4.py
+--------------------------------------------------------------------
+Enter a date in the format MMDDYYYY: 09172019
+17/09/2019
+--------------------------------------------------------------------

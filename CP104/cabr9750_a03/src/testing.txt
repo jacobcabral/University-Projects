@@ -1,0 +1,50 @@
+Author:  Jacob Cabral
+ID:      190689750
+Email:   cabr9750@mylaurier.ca
+Version: 2019-09-26
+--------------------------------------------------------------------
+q1.py
+--------------------------------------------------------------------
+Enter number of balloons: 400
+Enter number of children: 11
+Each child will receive 36 balloons
+Balloons that won't be distributed: 4
+
+Enter number of balloons: 400
+Enter number of children: 400
+Each child will receive 1 balloons
+Balloons that won't be distributed: 0
+
+Enter number of balloons: 5
+Enter number of children: 10
+Each child will receive 0 balloons
+Balloons that won't be distributed: 5
+--------------------------------------------------------------------
+q2.py
+--------------------------------------------------------------------
+Enter your score in Midterm: (0-100): 20
+Enter your score in Final: (0-100): 30
+Your weighted exam score is: 16.0
+
+Enter your score in Midterm: (0-100): 100
+Enter your score in Final: (0-100): 100
+Your weighted exam score is: 60.0	
+--------------------------------------------------------------------
+q3.py
+--------------------------------------------------------------------
+Enter a positive two digit integer: 27
+The sum of the two digits in the integer (27) is: 9
+
+Enter a positive two digit integer: 16
+The sum of the two digits in the integer (16) is: 7
+--------------------------------------------------------------------
+q4.py
+--------------------------------------------------------------------
+Enter the fat grams consumed: 100
+Enter the carbohydrate grams consumed: 200
+Total calories a total of 1700 [Fat calories: 900 and Carb calories: 800]
+
+Enter the fat grams consumed: 300
+Enter the carbohydrate grams consumed: 400
+Total calories a total of 4300 [Fat calories: 2700 and Carb calories: 1600]
+--------------------------------------------------------------------

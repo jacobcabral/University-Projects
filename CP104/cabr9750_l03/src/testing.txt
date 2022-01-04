@@ -1,0 +1,131 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Jacob Cabral
+ID:      190689750
+Email:   cabr9750@mylaurier.a
+Version: 2019-09-125
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Temperature (C): 25
+Temperature (F): 7.7e+01
+
+Temperature (C): 25
+Temperature (F): 77.00
+
+Temperature (C): 100
+Temperature (F): 212
+
+Temperature (C): -40
+Temperature (F): -40
+
+Temperature (C): 0
+Temperature (F): 32
+
+Temperature (C): 25
+Temperature (F): 77
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Number of large dogs groomed: 1
+Number of small dogs groomed: 0
+Total earned for the day: $75.00.
+
+Number of large dogs groomed: 0
+Number of small dogs groomed: 1
+Total earned for the day: $50.00.
+
+Number of large dogs groomed: 10
+Number of small dogs groomed: 10
+Total earned for the day: $1,250.00.
+
+Number of large dogs groomed: 0
+Number of small dogs groomed: 0
+Total earned for the day: $0.00.
+
+-------------------------------------------------------
+t04 
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Mortgage principal ($): 200000
+Number of years: 20
+Yearly interest rate (%): 5
+The monthly payments are: $1,319.91
+
+Mortgage principal ($): 1
+Number of years: 1
+Yearly interest rate (%): 1
+The monthly payments are: $0.08
+
+Mortgage principal ($): 0
+Number of years: 1
+Yearly interest rate (%): 10
+The monthly payments are: $0.00
+
+-------------------------------------------------------
+t09
+-------------------------------------------------------
+Diameter of container base (cm): 1
+Height of container (cm): 5
+Cost of material ($/cm^2): 0.5
+Number of containers: 100
+The cost of one container is: $8.24
+The total cost of all containers is $824.25
+
+Diameter of container base (cm): 2
+Height of container (cm): 1
+Cost of material ($/cm^2): 1
+Number of containers: 1
+The cost of one container is: $9.42
+The total cost of all containers is $9.42
+
+Diameter of container base (cm): 2
+Height of container (cm): 1
+Cost of material ($/cm^2): 1
+Number of containers: 10
+The cost of one container is: $9.42
+The total cost of all containers is $94.20
+
+
+-------------------------------------------------------
+t13.py
+-------------------------------------------------------
+Midterm mark (%): 75.5
+Exam mark (%): 72
+Final Grade (%): 73.2
+
+Midterm mark (%): 50
+Exam mark (%): 50
+Final Grade (%): 50.0
+
+Midterm mark (%): 100
+Exam mark (%): 100
+Final Grade (%): 100.0
+
+Midterm mark (%): 0
+Exam mark (%): 100
+Final Grade (%): 65.0
+
+Midterm mark (%): 100
+Exam mark (%): 0
+Final Grade (%): 35.0
+
+Midterm mark (%): 75.5
+Exam mark (%): 68.5
+Final Grade (%): 70.9

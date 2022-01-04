@@ -1,0 +1,36 @@
+Author:  Jacob Cabral
+ID:      190689750
+Email:   cabr9750@mylaurier.ca
+Version: 2019-11-16
+------------------------------------------------------------------------------------------------------------
+q1.py
+------------------------------------------------------------------------------------------------------------
+Enter a string with single digit numbers: H1e1ll0 th3r3
+The total value of the digits in the string is 8
+
+Enter a string with single digit numbers: Y8u A4e 1 bo1d 1
+The total value of the digits in the string is 15
+------------------------------------------------------------------------------------------------------------
+q2.py
+------------------------------------------------------------------------------------------------------------
+Enter a string: Have you ever heard the tradgety of Darth Pelaguis the Wise?
+The most frequent character(s) in the string is  ['e']
+
+Enter a string: I thought not, it's not a story the jedi would tell you, it's an old sith legend
+The most frequent character(s) in the string is  ['t']
+------------------------------------------------------------------------------------------------------------
+q3.py
+------------------------------------------------------------------------------------------------------------
+Enter a string: darth Pelaguis was a force user. so powerful that he could infulence the mitachlorians to create life
+Darth Pelaguis was a force user. So powerful that he could infulence the mitachlorians to create life
+
+Enter a string: he taught his apprentice everything he knew. then his apprentice killed him in his sleep. ironic, he could save others from death, but not himself.
+He taught his apprentice everything he knew. Then his apprentice killed him in his sleep. Ironic, he could save others from death, but not himself.
+------------------------------------------------------------------------------------------------------------
+q4.py
+------------------------------------------------------------------------------------------------------------
+chain = ['camel', 'leopard', 'dog', 'giraffe', 'elephant']
+The list contains a word chain
+
+chain = ['camel', 'leopardf', 'dog', 'giraffe', 'elephant']
+The list does not contain a word chain

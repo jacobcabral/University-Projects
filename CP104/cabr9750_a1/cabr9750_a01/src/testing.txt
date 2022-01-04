@@ -1,0 +1,34 @@
+Author:  Jacob Cabral
+ID:      190689750
+Email:   cabr9750@mylaurier.a
+Version: 2019-09-12
+q1.py
+---------------------------------------------------------------------------
+The book title is, "Learn Python in 21 Days".
+What's mine is mine, and what's yours is mine.
+"You have enemies? Good. That means you've stood up for something, sometime in your life." Winston Churchill
+
+The book title is, "Learn Python in 21 Days".
+What's mine is mine, and what's yours is mine.
+"You have enemies? Good. That means you've stood up for something, sometime in your life." Winston Churchill
+Three things cannot be long hidden: the sun, the moon, and the truth
+
+---------------------------------------------------------------------------
+q2.py
+---------------------------------------------------------------------------
+Please enter the number of inches: 20
+20
+Traceback (most recent call last):
+  File "C:\Users\jacob\Documents\workspaces\cp104\cabr9750_a01\src\q2.py", line 15, in <module>
+    INCHES_ENTRY = int(USER_ENTRY)
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+
+Please enter the number of inches: 20
+20.0 In height is equivalent to  0.508 metres.
+
+Please enter the number of inches: 17.5
+17.5 In height is equivalent to 0.4445 metres.
+
+
+
+

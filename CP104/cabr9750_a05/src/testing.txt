@@ -1,0 +1,176 @@
+Author:  Jacob Cabral
+ID:      190689750
+Email:   cabr9750@mylaurier.ca
+Version: 2019-09-26
+------------------------------------------------------------------------------------------------------------
+q1.py
+------------------------------------------------------------------------------------------------------------
+Please enter your first number: 11.5
+Please enter your second number: 6.3
+Please enter your third number: 3.7
+The average of the two smaller values is 5.0
+
+Please enter your first number: 3.1
+Please enter your second number: 5.6
+Please enter your third number: 0.6
+The average of the two smaller values is 1.9
+
+Please enter your first number: 16
+Please enter your second number: 2
+Please enter your third number: 4.6
+The average of the two smaller values is 3.3
+------------------------------------------------------------------------------------------------------------
+q2.py
+------------------------------------------------------------------------------------------------------------
+Enter a pocket number: 0
+
+The selected pocket color is green.
+
+Enter a pocket number: 3
+
+The selected pocket color is red.
+
+Enter a pocket number: 4
+
+The selected pocket color is black.
+
+Enter a pocket number: 13
+
+The selected pocket color is black.
+
+Enter a pocket number: 18
+
+The selected pocket color is red.
+
+Enter a pocket number: 19
+
+The selected pocket color is red.
+
+Enter a pocket number: 28
+
+The selected pocket color is black.
+
+Enter a pocket number: 29
+
+The selected pocket color is black.
+
+Enter a pocket number: 36
+
+The selected pocket color is red.
+
+Enter a pocket number: -3
+
+The pocket number entered is incorrect.
+
+Enter a pocket number: 40
+
+The pocket number entered is incorrect.
+------------------------------------------------------------------------------------------------------------
+q3.py
+------------------------------------------------------------------------------------------------------------
+Length of call (minutes): 10
+Hour of call (24hour format): 17
+
+Total price of call: $0.80
+
+Length of call (minutes): 15
+Hour of call (24hour format): 25
+
+Please enter a valid time in the 24 hour format
+
+Length of call (minutes): 100
+Hour of call (24hour format): 13
+
+Total price of call: $7.20
+
+Length of call (minutes): 60
+Hour of call (24hour format): 12
+
+Total price of call: $4.32
+
+Length of call (minutes): 16
+Hour of call (24hour format): 23
+
+Total price of call: $0.96
+
+Length of call (minutes): 5
+Hour of call (24hour format): 5
+
+Total price of call: $0.20
+
+Length of call (minutes): 6
+Hour of call (24hour format): 4
+
+Total price of call: $0.24
+
+Length of call (minutes): 70
+Hour of call (24hour format): 5
+
+Total price of call: $2.52
+
+Length of call (minutes): 80
+Hour of call (24hour format): 1
+
+Total price of call: $2.88
+
+Length of call (minutes): 80
+Hour of call (24hour format): 9
+
+Total price of call: $5.76
+------------------------------------------------------------------------------------------------------------
+q4.py
+------------------------------------------------------------------------------------------------------------
+Enter x coordinate: 0
+Enter y coordinate: 25
+
+The coordinate (0,25) lies in Q1
+
+Enter x coordinate: -25
+Enter y coordinate: 0
+
+The coordinate (-25,0) lies in Q2
+
+Enter x coordinate: 5
+Enter y coordinate: -15
+
+The coordinate (5,-15) lies in Q4
+
+Enter x coordinate: 5
+Enter y coordinate: 16
+
+The coordinate (5,16) lies in Q1
+
+Enter x coordinate: 25
+Enter y coordinate: 0
+
+The coordinate (25,0) lies in Q4
+
+Enter x coordinate: 0
+Enter y coordinate: -25
+
+The coordinate (0,-25) lies in Q3
+
+Enter x coordinate: 5
+Enter y coordinate: -10
+
+The coordinate (5,-10) lies in Q4
+
+Enter x coordinate: 0
+Enter y coordinate: 25
+
+The coordinate (0,25) lies in Q1
+
+Enter x coordinate: 5
+Enter y coordinate: -6
+
+The coordinate (5,-6) lies in Q4
+
+Enter x coordinate: -5
+Enter y coordinate: 6
+
+The coordinate (-5,6) lies in Q2
+
+
+
+
+
